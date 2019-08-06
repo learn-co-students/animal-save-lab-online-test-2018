@@ -6,7 +6,9 @@ tags:
   - media queries
   - animal
   - save
-resources: 2
 type:
   - lab
   - challenge
+tests:
+ - rspec
+resources: 2
